@@ -15,7 +15,6 @@ const half = (function() {
     return (max + min) / 2.0;
   };
   // change code above this line
-
 })();
 console.log(stats); // should be object
 console.log(half(stats)); // should be 28.015

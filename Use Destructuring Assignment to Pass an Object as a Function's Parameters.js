@@ -9,7 +9,6 @@ const stats = {
 };
 const half = (function() {
   "use strict"; // do not change this line
-
   // change code below this line dont forget to add braces
   return ({min, max}) => {
     // use function argument destructuring
